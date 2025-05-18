@@ -1,6 +1,6 @@
-package module1;
+package csc350;
 
-public class contactDirectory {
+public class publicDirectory {
 
 	public static void main(String[] args) {
 		String firstName = "Alex";
@@ -16,6 +16,7 @@ public class contactDirectory {
         System.out.println(city);
         System.out.println(zipCode);
 		
+
 	}
 
 }
